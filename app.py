@@ -10,10 +10,10 @@ CONFIG = {
     "bio": "Specializing in technical market analysis, high-probability execution setups, and systematic risk management.",
     "profile_video": "photo_2026-09-17_14-06-03.mp4", 
     "social_links": {
-        "telegram": "https://t.me/your_telegram_username",
-        "tiktok": "https://www.tiktok.com/@your_tiktok_username",
+        "telegram": "https://t.me/k_Tha1",
+        "tiktok": "https://www.tiktok.com/@carrot..6?is_from_webapp=1&sender_device=pc",
         "youtube": "https://youtube.com/@your_channel",
-        "facebook": "https://facebook.com/your_profile"
+        "facebook": "https://www.facebook.com/GenrotZ/"
     }
 }
 
@@ -476,7 +476,7 @@ HTML_TEMPLATE = """
 
         <!-- Social Media Links Section -->
         <section class="social-section">
-            <h2>Connect With Me</h2>
+            <h2>MY context </h2>
             <p>Join the community for chart breakdowns, updates, and trade ideas.</p>
 
             <div class="social-grid">
