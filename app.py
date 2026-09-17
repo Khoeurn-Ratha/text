@@ -12,7 +12,7 @@ CONFIG = {
     "social_links": {
         "telegram": "https://t.me/k_Tha1",
         "tiktok": "https://www.tiktok.com/@carrot..6?is_from_webapp=1&sender_device=pc",
-        "youtube": "https://youtube.com/@your_channel",
+        "youtube": "",
         "facebook": "https://www.facebook.com/GenrotZ/"
     }
 }
